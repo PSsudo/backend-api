@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Prashanthi S Github: @PSsudo",
+	"author": "Prashanthi S",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
